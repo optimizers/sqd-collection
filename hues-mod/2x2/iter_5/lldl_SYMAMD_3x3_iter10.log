@@ -1,0 +1,2 @@
+# This profile measures efficiency = iter x nnz(L)
+#      problem     none    p = 0   p = 10   p = 20

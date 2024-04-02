@@ -16,6 +16,6 @@ D. Orban. Limited-Memory LDL<sup>T</sup> Factorization of Symmetric
 Quasi-Definite Matrices with Application to Constrained Optimization. Cahier
 du GERAD G-2013-87. GERAD, Montreal, Canada.
 <br>
-[Technical Report](http://www.gerad.ca/~orban/_static/go2013.pdf).
+[Technical Report](https://www.gerad.ca/papers/G-2013-87.pdf).
 <br>
 [Published version, Numerical Algorithms, November 2014](http://link.springer.com/article/10.1007/s11075-014-9933-x).
